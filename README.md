@@ -1,5 +1,5 @@
 # Quantum Algorithms
-This repository contains codes accompanying the paper "Quantum algorithm implementations for beginners", including circuit representations using OpenQASM (Open Quantum Assembly Language) that can be run on IBM Quantum Experience.
+This repository contains codes accompanying the paper "Quantum algorithm implementations for beginners", including circuit representations using OpenQASM (Open Quantum Assembly Language) that can be run on IBM Quantum Experience, as well as implementation of additional subroutines.
 
 ## Reference
 
