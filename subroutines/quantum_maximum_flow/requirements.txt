@@ -19,7 +19,7 @@ pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
 qiskit==0.3.10
-requests==2.18.4
+requests==2.20.0
 scipy==0.19.1
 six==1.11.0
 snowballstemmer==1.2.1
