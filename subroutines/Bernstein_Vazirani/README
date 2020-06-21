@@ -1,0 +1,12 @@
+This directory contains a basic quantum algorithm simulator.
+
+It is inspired by JSQubits (https://github.com/davidbkemp/jsqubits), but is usually much faster.
+It is realatively fast for reasonable number of qubits, thanks to Luajit implementation (5x faster than JSQubits on Firefox/Chrome).
+
+Example algorithms include:
+1. Bernstein-Vazirani
+2. Superdense-coding
+3. Shor's algorithm
+
+Unlike IBM's Qiskit, this simulator is *not* a gate-level simulator. It rather works at a higher abstraction level (similar to JSQubits).
+LuaQubits is not yet LACC'd, so please do not distribute.
