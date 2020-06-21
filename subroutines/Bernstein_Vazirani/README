@@ -9,4 +9,3 @@ Example algorithms include:
 3. Shor's algorithm
 
 Unlike IBM's Qiskit, this simulator is *not* a gate-level simulator. It rather works at a higher abstraction level (similar to JSQubits).
-LuaQubits is not yet LACC'd, so please do not distribute.
